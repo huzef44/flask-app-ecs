@@ -17,7 +17,7 @@ Part of the [TrainWithShubham](https://github.com/TrainWithShubham) — DevOps Z
 
 ## Tech Stack
 
-| Component | Technology |
+| Components | Technology |
 |-----------|------------|
 | Framework | Flask 3.1.1 |
 | Runtime   | Python 3.14 |
