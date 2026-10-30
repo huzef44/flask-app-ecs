@@ -21,7 +21,7 @@ Part of the [TrainWithShubham](https://github.com/TrainWithShubham) — DevOps Z
 |-----------|------------|
 | Framework | Flask 3.1.1 |
 | Runtime   | Python 3.14 |
-| Container | Docker (python-slim / distroless) |
+| Containers | Docker (python-slim / distroless) |
 | Deploy    | AWS ECS |
 
 ## Project Structure
